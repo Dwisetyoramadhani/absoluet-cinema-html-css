@@ -56,7 +56,7 @@ body {
 .hero {
   position: relative;
   height: 100vh;
-  background-image: url("/assets/movie/jumbo.webp");
+  background-image: url("assets/movie/jumbo.webp");
   background-size: cover;
   background-position: center;
   display: flex;
